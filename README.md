@@ -1,6 +1,4 @@
-### Hi there 👋
-
-<h1 align="center">Hi 👋, I'm Martin Liland Bakke</h1>
+<h1 align="center">Hi, I'm Martin Liland Bakke</h1>
 <h2 align="center">Frontend developer from Bergen, Norway</h3>
 
 - 👨‍💻 You can find my portfolio at [mlbakke.github.io](https://mlbakke.github.io/)
