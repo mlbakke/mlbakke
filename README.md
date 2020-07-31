@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Martin Liland Bakke</h1>
-<h3 align="center">Frontend developer in development. Bergen, Norway</h3>
+<h3 align="center">Frontend developer in development. Bergen, Norway.</h3>
 <hr>
 
 
