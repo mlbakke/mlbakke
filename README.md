@@ -8,7 +8,7 @@
 - 📫 You can reach me at **bakkemartin11@gmail.com**.
 
 
-- 🌱 I’m currently learning Async & Await
+- 🌱 I’m currently learning the intricacies of JavaScript
 
 <hr>
 
